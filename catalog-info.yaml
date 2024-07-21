@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: garden_admin_1
+  annotations:
+    github.com/project-slug: letuyenuit/garden_admin
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
